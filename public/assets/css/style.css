@@ -1,0 +1,22 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .main-content {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    min-height: 150px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
